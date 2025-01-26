@@ -9,7 +9,7 @@ nut.  Requires M5 hex nuts and bolts.
 
 Compatible accessories for aligning nut:
 
-* Parametric bin:
+* Parametric bin: https://github.com/nickewing/Parametric-T-Track-Bin
 * Festool hose holder: https://www.printables.com/model/806346-festool-d27-d36-suction-hose-holder
 * Festool tray: https://www.printables.com/model/1018342-festool-tray
 * Festool drill holder: https://www.printables.com/model/1010138-festool-drill-holder
