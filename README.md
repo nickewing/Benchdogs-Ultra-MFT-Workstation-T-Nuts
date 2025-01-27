@@ -2,10 +2,10 @@
 
 ![Nuts](images/nuts.jpg)
 
-Benchdogs.co.uk Ultimate Ultra MFT Workstation accessory T-nuts.  The basic
-variant allows for flat-mounting accessories while the aligning variant can be
-used with compatible accessories to prevent twisting while only using a single
-nut.  Requires M5 hex nuts and bolts.
+Benchdogs.co.uk Ultra MFT Workstation accessory T-nuts.  The basic variant
+allows for flat-mounting accessories while the aligning variant can be used
+with compatible accessories to prevent twisting while only using a single nut.
+Requires M5 hex nuts and bolts.
 
 Print with T-nut profile oriented vertically, so that bolt hole is parallel to
 print bed.
